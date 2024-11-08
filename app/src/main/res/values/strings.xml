@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">08.11.24</string>
+    <string name="state_of_search_1">поиск по названию</string>
+    <string name="state_of_search_2">поиск по цене</string>
+    <string name="state_of_search_3">поиск по компании</string>
+</resources>
